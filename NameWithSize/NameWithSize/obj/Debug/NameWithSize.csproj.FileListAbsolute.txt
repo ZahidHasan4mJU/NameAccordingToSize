@@ -1,0 +1,8 @@
+c:\users\zahid_ju\documents\visual studio 2012\Projects\NameWithSize\NameWithSize\bin\Debug\NameWithSize.exe.config
+c:\users\zahid_ju\documents\visual studio 2012\Projects\NameWithSize\NameWithSize\obj\Debug\NameWithSize.NameWidSizeForm.resources
+c:\users\zahid_ju\documents\visual studio 2012\Projects\NameWithSize\NameWithSize\obj\Debug\NameWithSize.Properties.Resources.resources
+c:\users\zahid_ju\documents\visual studio 2012\Projects\NameWithSize\NameWithSize\obj\Debug\NameWithSize.csproj.GenerateResource.Cache
+c:\users\zahid_ju\documents\visual studio 2012\Projects\NameWithSize\NameWithSize\bin\Debug\NameWithSize.exe
+c:\users\zahid_ju\documents\visual studio 2012\Projects\NameWithSize\NameWithSize\bin\Debug\NameWithSize.pdb
+c:\users\zahid_ju\documents\visual studio 2012\Projects\NameWithSize\NameWithSize\obj\Debug\NameWithSize.exe
+c:\users\zahid_ju\documents\visual studio 2012\Projects\NameWithSize\NameWithSize\obj\Debug\NameWithSize.pdb
